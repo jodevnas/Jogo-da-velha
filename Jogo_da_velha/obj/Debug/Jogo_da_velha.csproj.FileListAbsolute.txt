@@ -1,0 +1,27 @@
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe.config
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.pdb
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Form1.resources
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.exe
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.pdb
+E:\Executaveis liberados\Jogo_da_velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csprojResolveAssemblyReference.cache
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe.config
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.exe
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.pdb
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.pdb
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csprojResolveAssemblyReference.cache
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Form1.resources
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+D:\C#\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe.config
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.exe
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.pdb
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.exe
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\bin\Debug\Jogo_da_velha.pdb
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Form1.resources
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.Properties.Resources.resources
+E:\Executaveis liberados\GITHUB\Jogo da velha\Jogo_da_velha\obj\Debug\Jogo_da_velha.csproj.GenerateResource.Cache
